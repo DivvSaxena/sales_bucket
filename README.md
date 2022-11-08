@@ -1,2 +1,2 @@
 # sales_bucket
-sales_bucket will help local buisness to keep track on accounts and products on high demand to meet the supply for customers
+sales_bucket is a web API that will help local businesses keep track of the accounts and products that are on high demand from the customers thus helping them restock them on time without affecting the supply to the market. The website will keep data on what products the business is selling,the quantity,price and the rate at which each product is selling. It will also have information about customer orders and purchases,the products that are popular with the customers.as well. The tech stack will be HTML,CSS and JavaScript.
